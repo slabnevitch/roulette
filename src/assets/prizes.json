@@ -1,0 +1,23 @@
+[
+  {
+    "prizeName": "Galaxy S10 Plus",
+    "prizeImage": "./img/icons/1455554316_line-07_icon-icons.com_53329.png",
+    "isRotationMore": true
+  },
+  {
+    "prizeName": "Airpods",
+    "prizeImage": "./img/icons/itunes_cd_music_19882.png",
+    "isRotationMore": true
+  },
+  {
+    "prizeName": "Macbook PRO",
+    "prizeImage": "./img/icons/application_iMovie_movie_video_2663.png",
+    "isRotationMore": false,
+    "isTargetPrize": true
+  },
+  {
+    "prizeName": "PS 4 PRO",
+    "prizeImage": "./img/icons/GS_icon-icons.com_66597.png",
+    "isRotationMore": true
+  }
+]

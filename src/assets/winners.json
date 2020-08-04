@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Cheyanne",
+    "spins": 4,
+    "prizeName": "iPhone 11 Pro",
+    "prizeImage": "apple-iphone-11-pro-max-min.png"
+  },
+  {
+    "name": "Bethel.Hills35",
+    "spins": 2,
+    "prizeName": "Airpods Pro",
+    "prizeImage": "airpods-min.png"
+  },
+  {
+    "name": "Berneice",
+    "spins": 4,
+    "prizeName": "PS 4 Pro",
+    "prizeImage": "ps4-min.png"
+  },
+  {
+    "name": "Isadore.Rath",
+    "spins": 1,
+    "prizeName": "Macbook",
+    "prizeAnnex": "Pro 15’",
+    "prizeImage": "apple-macbook-pro-min.png"
+  },
+  {
+    "name": "Clementina50",
+    "spins": 3,
+    "prizeName": "s10 PLUS",
+    "prizeImage": "galaxy-s10-plus-min.png"
+  },
+  {
+    "name": "Test_1",
+    "spins": 4,
+    "prizeName": "PS 4 Pro",
+    "prizeImage": "ps4-min.png"
+  },
+  {
+    "name": "Test_2",
+    "spins": 1,
+    "prizeName": "Macbook",
+    "prizeAnnex": "Pro 15’",
+    "prizeImage": "apple-macbook-pro-min.png"
+  },
+  {
+    "name": "Test_3",
+    "spins": 3,
+    "prizeName": "s10 PLUS",
+    "prizeImage": "galaxy-s10-plus-min.png"
+  },
+  {
+    "name": "Test_4",
+    "spins": 4,
+    "prizeName": "PS 4 Pro",
+    "prizeImage": "ps4-min.png"
+  },
+  {
+    "name": "Test_5",
+    "spins": 1,
+    "prizeName": "Macbook",
+    "prizeAnnex": "Pro 15’",
+    "prizeImage": "apple-macbook-pro-min.png"
+  },
+  {
+    "name": "Test_6",
+    "spins": 3,
+    "prizeName": "s10 PLUS",
+    "prizeImage": "galaxy-s10-plus-min.png"
+  },
+  {
+    "name": "Test_7",
+    "spins": 7,
+    "prizeName": "PS 4 Pro",
+    "prizeImage": "ps4-min.png"
+  },
+  {
+    "name": "Test_8",
+    "spins": 1,
+    "prizeName": "Macbook",
+    "prizeAnnex": "Pro 15’",
+    "prizeImage": "apple-macbook-pro-min.png"
+  },
+  {
+    "name": "Test_9",
+    "spins": 3,
+    "prizeName": "s10 PLUS",
+    "prizeImage": "galaxy-s10-plus-min.png"
+  }
+]
